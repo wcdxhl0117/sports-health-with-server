@@ -1,0 +1,30 @@
+# Editor directories and files
+.idea
+/lib
+
+.DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+*.xlsx
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# yarn.lock
+# Editor directories and files
+.idea
+.history
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode
+

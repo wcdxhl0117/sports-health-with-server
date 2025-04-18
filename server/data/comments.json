@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "userId": 3,
+    "user": {
+      "id": 3,
+      "name": "运动医学专家",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "isExpert": true
+    },
+    "content": "非常好的分享！热敷确实有助于缓解训练后的肌肉紧张和关节不适。建议热敷15-20分钟为宜，温度不要太高，以免烫伤皮肤。",
+    "createdAt": "2023-05-20T15:12:00.000Z",
+    "updatedAt": "2023-05-20T15:12:00.000Z",
+    "likes": 8,
+    "parentId": null
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "userId": 1,
+    "user": {
+      "id": 1,
+      "name": "康复管理员",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "isExpert": true
+    },
+    "content": "我也在做膝关节康复，请问你每天大概训练多久？感觉进步很快啊！",
+    "createdAt": "2023-05-20T16:05:00.000Z",
+    "updatedAt": "2023-05-20T16:05:00.000Z",
+    "likes": 3,
+    "parentId": null
+  },
+  {
+    "id": 3,
+    "postId": 1,
+    "userId": 2,
+    "user": {
+      "id": 2,
+      "name": "康复小达人",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isExpert": false
+    },
+    "content": "回复 @康复管理员：我一般每天训练两次，早晚各半小时左右。刚开始会有点不适，坚持一周后就好多了！",
+    "createdAt": "2023-05-20T16:30:00.000Z",
+    "updatedAt": "2023-05-20T16:30:00.000Z",
+    "likes": 5,
+    "parentId": 2
+  },
+  {
+    "id": 4,
+    "postId": 2,
+    "userId": 1,
+    "user": {
+      "id": 1,
+      "name": "康复管理员",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "isExpert": true
+    },
+    "content": "非常实用的建议！除了伸展，我建议大家也可以做些简单的核心肌群训练，比如平板支撑，对缓解腰部压力很有帮助。",
+    "createdAt": "2023-05-19T11:20:00.000Z",
+    "updatedAt": "2023-05-19T11:20:00.000Z",
+    "likes": 12,
+    "parentId": null
+  },
+  {
+    "id": 5,
+    "postId": 3,
+    "userId": 2,
+    "user": {
+      "id": 2,
+      "name": "康复小达人",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isExpert": false
+    },
+    "content": "这些平衡训练我都有尝试过，效果确实很好！特别是单腿站立，刚开始很难保持平衡，现在已经能稳定30秒了。",
+    "createdAt": "2023-05-18T18:10:00.000Z",
+    "updatedAt": "2023-05-18T18:10:00.000Z",
+    "likes": 7,
+    "parentId": null
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "planId": 1,
+    "date": "2023-05-15T10:30:00.000Z",
+    "exercises": [
+      {
+        "exerciseId": 1,
+        "name": "床上抬腿",
+        "sets": 3,
+        "reps": 12,
+        "completed": true
+      },
+      {
+        "exerciseId": 2,
+        "name": "坐姿膝关节屈伸",
+        "sets": 3,
+        "reps": 15,
+        "completed": true
+      }
+    ],
+    "duration": 25,
+    "completed": true,
+    "notes": "今天感觉不错，完成了所有动作"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "planId": 1,
+    "date": "2023-05-17T11:15:00.000Z",
+    "exercises": [
+      {
+        "exerciseId": 3,
+        "name": "踝泵运动",
+        "sets": 4,
+        "reps": 15,
+        "completed": true
+      },
+      {
+        "exerciseId": 4,
+        "name": "弹力带阻力训练",
+        "sets": 3,
+        "reps": 10,
+        "completed": true
+      }
+    ],
+    "duration": 30,
+    "completed": true,
+    "notes": "弹力带训练有点吃力，下次可能需要减少组数"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "planId": 1,
+    "date": "2023-05-19T09:45:00.000Z",
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "站立髋外展",
+        "sets": 3,
+        "reps": 15,
+        "completed": true
+      },
+      {
+        "exerciseId": 6,
+        "name": "平衡板训练",
+        "sets": 2,
+        "reps": 30,
+        "completed": false
+      }
+    ],
+    "duration": 20,
+    "completed": false,
+    "notes": "平衡板训练有点困难，只完成了第一组"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "planId": 2,
+    "date": "2023-05-16T16:30:00.000Z",
+    "exercises": [
+      {
+        "exerciseId": 7,
+        "name": "猫牛式",
+        "sets": 3,
+        "reps": 10,
+        "completed": true
+      },
+      {
+        "exerciseId": 8,
+        "name": "桥式",
+        "sets": 3,
+        "reps": 12,
+        "completed": true
+      }
+    ],
+    "duration": 25,
+    "completed": true,
+    "notes": "腰部感觉放松了不少"
+  }
+]

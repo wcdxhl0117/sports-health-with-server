@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "$2b$10$X/4yCLOAE5A85mgHs6xmSO2Te7PCy1gZ14t5rQH7.SaMJVI4lUjLS",
+    "email": "admin@example.com",
+    "nickname": "管理员",
+    "bio": "健身爱好者，喜欢挑战自我",
+    "avatar": "/uploads/default-avatar.png",
+    "createdAt": "2023-01-01T00:00:00.000Z",
+    "expertise": [
+      "有氧",
+      "力量训练"
+    ],
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "username": "test",
+    "password": "$2b$10$X/4yCLOAE5A85mgHs6xmSO2Te7PCy1gZ14t5rQH7.SaMJVI4lUjLS",
+    "email": "test@example.com",
+    "nickname": "测试用户",
+    "bio": "初学者，希望能坚持健身",
+    "avatar": "/uploads/default-avatar.png",
+    "createdAt": "2023-01-02T00:00:00.000Z",
+    "expertise": [
+      "瑜伽"
+    ],
+    "role": "user"
+  }
+]

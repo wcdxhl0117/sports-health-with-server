@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "title": "膝关节康复训练方案",
+    "duration": 8,
+    "difficulty": "中等",
+    "weeklyPlans": [
+      {
+        "day": "周一",
+        "exercises": [
+          {
+            "id": 1,
+            "name": "床上抬腿",
+            "sets": 3,
+            "reps": 12,
+            "videoUrl": "#"
+          },
+          {
+            "id": 2,
+            "name": "坐姿膝关节屈伸",
+            "sets": 3,
+            "reps": 15,
+            "videoUrl": "#"
+          }
+        ]
+      },
+      {
+        "day": "周三",
+        "exercises": [
+          {
+            "id": 3,
+            "name": "踝泵运动",
+            "sets": 4,
+            "reps": 15,
+            "videoUrl": "#"
+          },
+          {
+            "id": 4,
+            "name": "弹力带阻力训练",
+            "sets": 3,
+            "reps": 10,
+            "videoUrl": "#"
+          }
+        ]
+      },
+      {
+        "day": "周五",
+        "exercises": [
+          {
+            "id": 5,
+            "name": "站立髋外展",
+            "sets": 3,
+            "reps": 15,
+            "videoUrl": "#"
+          },
+          {
+            "id": 6,
+            "name": "平衡板训练",
+            "sets": 2,
+            "reps": 30,
+            "videoUrl": "#"
+          }
+        ]
+      }
+    ],
+    "notes": "请根据自身情况调整训练强度，如有不适请立即停止并咨询专业医师。",
+    "createdAt": "2023-05-15T08:00:00.000Z",
+    "updatedAt": "2023-05-15T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "腰椎康复训练方案",
+    "duration": 6,
+    "difficulty": "低",
+    "weeklyPlans": [
+      {
+        "day": "周二",
+        "exercises": [
+          {
+            "id": 7,
+            "name": "猫牛式",
+            "sets": 3,
+            "reps": 10,
+            "videoUrl": "#"
+          },
+          {
+            "id": 8,
+            "name": "桥式",
+            "sets": 3,
+            "reps": 12,
+            "videoUrl": "#"
+          }
+        ]
+      },
+      {
+        "day": "周四",
+        "exercises": [
+          {
+            "id": 9,
+            "name": "骨盆倾斜",
+            "sets": 3,
+            "reps": 15,
+            "videoUrl": "#"
+          },
+          {
+            "id": 10,
+            "name": "鸟狗式",
+            "sets": 3,
+            "reps": 8,
+            "videoUrl": "#"
+          }
+        ]
+      },
+      {
+        "day": "周六",
+        "exercises": [
+          {
+            "id": 11,
+            "name": "侧卧腿抬高",
+            "sets": 3,
+            "reps": 12,
+            "videoUrl": "#"
+          },
+          {
+            "id": 12,
+            "name": "轻度瑜伽伸展",
+            "sets": 1,
+            "reps": 5,
+            "videoUrl": "#"
+          }
+        ]
+      }
+    ],
+    "notes": "保持良好姿势，动作缓慢可控，避免过度牵拉感。",
+    "createdAt": "2023-04-20T09:15:00.000Z",
+    "updatedAt": "2023-04-20T09:15:00.000Z"
+  }
+]

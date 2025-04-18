@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1",
+    "name": "深蹲",
+    "description": "深蹲是一种基础的力量训练动作，主要锻炼下肢肌肉群。",
+    "targetArea": [
+      "腿部",
+      "臀部",
+      "核心"
+    ],
+    "difficulty": "中等",
+    "calories": 8,
+    "duration": 60,
+    "videoUrl": "/uploads/exercises/squat.mp4",
+    "coverImage": "/uploads/exercises/squat.jpg",
+    "steps": [
+      "双脚与肩同宽站立",
+      "保持背部挺直，臀部向后坐",
+      "下蹲至大腿与地面平行",
+      "通过脚跟发力站起"
+    ],
+    "tips": "下蹲时膝盖不要超过脚尖，保持核心收紧"
+  },
+  {
+    "id": "2",
+    "name": "俯卧撑",
+    "description": "俯卧撑是一种经典的上肢力量练习，无需器械即可进行。",
+    "targetArea": [
+      "胸部",
+      "肩部",
+      "手臂"
+    ],
+    "difficulty": "中等",
+    "calories": 7,
+    "duration": 45,
+    "videoUrl": "/uploads/exercises/pushup.mp4",
+    "coverImage": "/uploads/exercises/pushup.jpg",
+    "steps": [
+      "俯卧，双手撑地，与肩同宽或稍宽",
+      "身体保持一直线，从头到脚",
+      "弯曲手肘，身体下降至接近地面",
+      "通过胸肌和手臂力量将身体推起"
+    ],
+    "tips": "保持颈部自然，不要低头或抬头，核心收紧"
+  },
+  {
+    "id": "3",
+    "name": "平板支撑",
+    "description": "平板支撑是一种极好的核心稳定性训练，适合各个水平的健身者。",
+    "targetArea": [
+      "核心",
+      "肩部",
+      "背部"
+    ],
+    "difficulty": "初级",
+    "calories": 5,
+    "duration": 60,
+    "videoUrl": "/uploads/exercises/plank.mp4",
+    "coverImage": "/uploads/exercises/plank.jpg",
+    "steps": [
+      "俯卧，前臂撑地，肘部位于肩部正下方",
+      "身体抬离地面，保持从头到脚的直线",
+      "收紧腹部和臀部肌肉",
+      "保持姿势，呼吸均匀"
+    ],
+    "tips": "避免臀部上翘或下塌，保持呼吸均匀，不要屏住呼吸"
+  },
+  {
+    "id": "4",
+    "name": "卷腹",
+    "description": "卷腹是针对腹肌的经典训练动作，适合在家进行。",
+    "targetArea": [
+      "腹部"
+    ],
+    "difficulty": "初级",
+    "calories": 4,
+    "duration": 45,
+    "videoUrl": "/uploads/exercises/crunch.mp4",
+    "coverImage": "/uploads/exercises/crunch.jpg",
+    "steps": [
+      "仰卧，膝盖弯曲，脚平放在地面",
+      "双手可以放在胸前或耳旁",
+      "收紧腹部，抬起上半身",
+      "缓慢回到起始位置"
+    ],
+    "tips": "动作过程中集中精力于腹部发力，避免用力过猛导致颈部不适"
+  },
+  {
+    "id": "5",
+    "name": "弓步蹲",
+    "description": "弓步蹲是一种单腿力量训练，有助于提高平衡能力和腿部力量。",
+    "targetArea": [
+      "腿部",
+      "臀部",
+      "平衡"
+    ],
+    "difficulty": "中等",
+    "calories": 7,
+    "duration": 60,
+    "videoUrl": "/uploads/exercises/lunge.mp4",
+    "coverImage": "/uploads/exercises/lunge.jpg",
+    "steps": [
+      "直立，双脚与肩同宽",
+      "一只脚向前迈出一大步",
+      "保持躯干挺直，下蹲至前腿大腿与地面平行",
+      "通过前腿发力回到起始位置"
+    ],
+    "tips": "前膝不要超过脚尖，下蹲时保持后背挺直"
+  },
+  {
+    "id": 1,
+    "name": "床上抬腿",
+    "description": "躺在床上，保持一侧腿伸直，另一侧腿缓慢抬起至30-45度，保持5秒，然后缓慢放下。",
+    "imageUrl": "https://placehold.co/600x400?text=床上抬腿",
+    "videoUrl": "#",
+    "tips": "保持腰背部贴紧床面，避免骨盆前倾；抬腿时保持膝关节伸直。",
+    "targetArea": "膝关节",
+    "difficulty": "低"
+  },
+  {
+    "id": 2,
+    "name": "坐姿膝关节屈伸",
+    "description": "坐在椅子上，缓慢伸直膝关节，保持5秒，然后缓慢屈回。",
+    "imageUrl": "https://placehold.co/600x400?text=坐姿膝关节屈伸",
+    "videoUrl": "#",
+    "tips": "动作过程中保持上身稳定，不要晃动；伸膝时脚跟可离地，但不要过度用力。",
+    "targetArea": "膝关节",
+    "difficulty": "中"
+  },
+  {
+    "id": 3,
+    "name": "踝泵运动",
+    "description": "平躺或坐姿，脚踝向上弯曲（背屈）然后向下弯曲（跖屈），反复进行。",
+    "imageUrl": "https://placehold.co/600x400?text=踝泵运动",
+    "videoUrl": "#",
+    "tips": "动作要尽可能做到位，但不要超过舒适范围；保持均匀的速度和呼吸。",
+    "targetArea": "踝关节",
+    "difficulty": "低"
+  },
+  {
+    "id": 4,
+    "name": "弹力带阻力训练",
+    "description": "坐姿，将弹力带绕过足部，双手握住弹力带两端，通过踝关节的屈伸活动拉伸弹力带。",
+    "imageUrl": "https://placehold.co/600x400?text=弹力带阻力训练",
+    "videoUrl": "#",
+    "tips": "选择适当阻力的弹力带；保持动作缓慢可控；避免过度拉伸。",
+    "targetArea": "膝关节、踝关节",
+    "difficulty": "中"
+  },
+  {
+    "id": 5,
+    "name": "站立髋外展",
+    "description": "站立姿势，手扶稳固物体保持平衡，侧抬腿至舒适角度，保持2-3秒，然后缓慢放下。",
+    "imageUrl": "https://placehold.co/600x400?text=站立髋外展",
+    "videoUrl": "#",
+    "tips": "保持躯干稳定，避免侧倾；抬腿时膝盖朝向正前方；不要抬得过高。",
+    "targetArea": "髋关节",
+    "difficulty": "中"
+  },
+  {
+    "id": 6,
+    "name": "平衡板训练",
+    "description": "站在平衡板上，保持平衡。可从双脚站立开始，逐渐过渡到单脚站立。",
+    "imageUrl": "https://placehold.co/600x400?text=平衡板训练",
+    "videoUrl": "#",
+    "tips": "初学者可在旁边放置扶手以防跌倒；集中注意力，保持核心肌群紧张。",
+    "targetArea": "踝关节、核心",
+    "difficulty": "高"
+  },
+  {
+    "id": 7,
+    "name": "猫牛式",
+    "description": "四点跪姿，交替进行脊柱屈曲（猫式）和伸展（牛式）。",
+    "imageUrl": "https://placehold.co/600x400?text=猫牛式",
+    "videoUrl": "#",
+    "tips": "动作要缓慢，注意感受脊柱每个节段的运动；保持均匀呼吸，吸气时伸展，呼气时屈曲。",
+    "targetArea": "腰椎",
+    "difficulty": "低"
+  },
+  {
+    "id": 8,
+    "name": "桥式",
+    "description": "仰卧，膝盖弯曲，脚掌平放在地面。抬高臀部形成从肩膀到膝盖的斜线，保持几秒后缓慢放下。",
+    "imageUrl": "https://placehold.co/600x400?text=桥式",
+    "videoUrl": "#",
+    "tips": "动作中保持腹部收紧；避免拱起腰部；臀肌用力。",
+    "targetArea": "腰椎、臀部",
+    "difficulty": "中"
+  },
+  {
+    "id": 9,
+    "name": "骨盆倾斜",
+    "description": "仰卧，膝盖弯曲。通过压平腰部使骨盆向后倾斜，然后恢复自然腰曲。",
+    "imageUrl": "https://placehold.co/600x400?text=骨盆倾斜",
+    "videoUrl": "#",
+    "tips": "注意动作是由腹部肌肉控制，而非腿部用力；保持均匀呼吸，避免屏气。",
+    "targetArea": "腰椎",
+    "difficulty": "低"
+  },
+  {
+    "id": 10,
+    "name": "鸟狗式",
+    "description": "四点跪姿，同时抬起对侧手臂和腿，保持平衡，然后换另一侧。",
+    "imageUrl": "https://placehold.co/600x400?text=鸟狗式",
+    "videoUrl": "#",
+    "tips": "保持脊柱中立位，不要塌腰；目视地面，颈部自然延伸；抬起肢体时保持躯干稳定。",
+    "targetArea": "腰椎、核心",
+    "difficulty": "中"
+  },
+  {
+    "id": 11,
+    "name": "侧卧腿抬高",
+    "description": "侧卧姿势，下侧手臂支撑头部，上侧腿缓慢抬起，保持片刻后缓慢放下。",
+    "imageUrl": "https://placehold.co/600x400?text=侧卧腿抬高",
+    "videoUrl": "#",
+    "tips": "保持躯干稳定，避免前倾或后仰；腿抬起时脚尖略微朝下，强化髋部肌肉。",
+    "targetArea": "髋关节、核心",
+    "difficulty": "中"
+  },
+  {
+    "id": 12,
+    "name": "轻度瑜伽伸展",
+    "description": "包括简单的前屈、侧屈和温和扭转动作，帮助放松背部肌肉。",
+    "imageUrl": "https://placehold.co/600x400?text=轻度瑜伽伸展",
+    "videoUrl": "#",
+    "tips": "伸展动作要缓慢，不要弹动；只伸展到舒适范围，避免疼痛；每个动作保持30秒左右。",
+    "targetArea": "腰椎、全身",
+    "difficulty": "低"
+  }
+]

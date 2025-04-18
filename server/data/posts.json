@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "user": {
+      "id": 2,
+      "name": "康复小达人",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isExpert": false
+    },
+    "content": "今天完成第10天的膝关节康复训练，感觉关节灵活度明显提高了！分享一些我的心得：\n\n1. 坚持每天做训练，哪怕只有10分钟\n2. 注意训练姿势，宁可少做，也要做对\n3. 训练后适当热敷，有助于缓解不适\n4. 记录每天的进步，保持积极心态",
+    "images": [
+      "https://placehold.co/600x400?text=康复训练图片1",
+      "https://placehold.co/600x400?text=康复训练图片2"
+    ],
+    "createdAt": "2023-05-20T14:30:00.000Z",
+    "updatedAt": "2023-05-20T14:30:00.000Z",
+    "likes": 28,
+    "tags": [
+      "膝关节康复",
+      "训练心得",
+      "康复分享"
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "user": {
+      "id": 3,
+      "name": "运动医学专家",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "isExpert": true
+    },
+    "content": "分享一个快速缓解腰肌劳损的小技巧：保持良好坐姿，每小时起身活动5分钟，做简单的伸展运动。长期久坐的朋友一定要注意腰部保养！",
+    "images": [
+      "https://placehold.co/600x400?text=腰部伸展图片1",
+      "https://placehold.co/600x400?text=腰部伸展图片2"
+    ],
+    "createdAt": "2023-05-19T10:15:00.000Z",
+    "updatedAt": "2023-05-19T10:15:00.000Z",
+    "likes": 45,
+    "tags": [
+      "腰椎护理",
+      "办公室健康",
+      "伸展运动"
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "user": {
+      "id": 1,
+      "name": "康复管理员",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "isExpert": true
+    },
+    "content": "很多人在踝关节扭伤后恢复训练时容易忽视平衡能力的训练，这是一个大错误！平衡训练对预防再次扭伤至关重要。这是我为大家整理的几个简单的平衡训练动作，每天坚持做，效果显著。",
+    "images": [
+      "https://placehold.co/600x400?text=平衡训练图片1",
+      "https://placehold.co/600x400?text=平衡训练图片2",
+      "https://placehold.co/600x400?text=平衡训练图片3"
+    ],
+    "createdAt": "2023-05-18T16:45:00.000Z",
+    "updatedAt": "2023-05-18T16:45:00.000Z",
+    "likes": 56,
+    "tags": [
+      "踝关节扭伤",
+      "平衡训练",
+      "康复指导"
+    ]
+  }
+]
